@@ -1,4 +1,4 @@
-<h1>Project Documentation: Login App</h1>
+<h1>Login App</h1>
 
 <h2>Overview</h2>
 <p>The Login App is a simple Java application that provides a graphical user interface (GUI) for users to enter their username and password and attempt to log in. It uses Swing components for the GUI and implements basic login functionality.</p>
